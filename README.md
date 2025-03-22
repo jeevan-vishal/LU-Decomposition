@@ -19,21 +19,25 @@ To write a program to find the LU Decomposition of a matrix.
 ```
 /*
 Program to find the L and U matrix.
-Developed by: 
-RegisterNumber: 
+Developed by:Jeevan Vishal GD 
+RegisterNumber: 212224240062
 */
 ```
+
 (ii) To find the LU Decomposition of a matrix
 ```
 /*
 Program to find the LU Decomposition of a matrix.
-Developed by: 
-RegisterNumber: 
-*/
+Developed by: Jeevan Vishal GD
+RegisterNumber: 212224240062
+*/![Screenshot 2025-03-21 145049](https://github.com/user-attachments/assets/ecb836cd-6b91-48d0-a21f-bd6dc758e072)
+
 ```
 
 ## Output:
-![lu decomposition]()
+![Screenshot 2025-03-21 145037](https://github.com/user-attachments/assets/77e67c01-4065-4d9b-aa80-af7c644c7081)
+![Screenshot 2025-03-21 145049](https://github.com/user-attachments/assets/e39f1a93-870c-4434-90e1-03446699f551)
+
 
 
 ## Result:
